@@ -1,0 +1,8 @@
+# This is an Lami code
+print text "Hello!"
+
+# Setting up a variable
+set VAR_A = text "This is a Jack rider!"
+
+# Printing variable
+print text VAR_A
